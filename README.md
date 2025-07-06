@@ -18,12 +18,12 @@ Repeatable delivery cycles for multiple storage rows.
 
 📁 Project Structure
 warehouse_simulation/
-│
-├── main.py              # Main script to run the simulation
-├── loader_unit.py       # Contains the Loader (KHR2HV) class logic
-├── delivery_unit.py     # Contains the Delivery Robot (Pioneer2) class logic
-├── warehouse.py         # Defines the grid layout and box coordinates
-└── README.md            # This file
+
+main.py              # Main script to run the simulation
+loader_unit.py       # Contains the Loader (KHR2HV) class logic
+delivery_unit.py     # Contains the Delivery Robot (Pioneer2) class logic
+warehouse.py         # Defines the grid layout and box coordinates
+README.md            # This file
 
 
 ✅ Features
